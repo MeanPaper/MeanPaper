@@ -2,7 +2,7 @@
 - 👋 I'm a computer engineering student at UIUC
 - 📓 Currently deep-diving in Computer Organization and Design, Communication Networks, and Game Development with UE5
 - 😃 Looking for collaboration on project about computer system, web development, and game development 
-- 😁 Extremely interested in game development, because I am a gamer 
+- 💼 Working as a class assistant for ECE 391: Computer System Engineering at UIUC
 
 ### Contact
 <img src="https://img.shields.io/badge/Email-dl35%40illinois.edu-blue?style=flat&logo=Mail.ru" /> <a href="https://www.linkedin.com/in/dongmingliu183/">
