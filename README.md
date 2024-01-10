@@ -1,6 +1,7 @@
 ### Hi there, I am Dongming
 - 👋 I'm a computer engineering student at UIUC
 - 📓 Currently deep-diving in Computer Organization and Design, Communication Networks, and Game Development with UE5
+- 🤔 Learning Raspberry Pi and STM32 right now and trying to figure out some fun projects
 - 😃 Looking for collaboration on project about computer system, web development, and game development 
 - 💼 Working as a class assistant for ECE 391: Computer System Engineering at UIUC
 
