@@ -1,9 +1,9 @@
 ### Hi there, I am Dongming
 - 👋 I'm a computer engineering student at UIUC
-- 📓 Currently deep-diving in Computer Organization and Design, Communication Networks, and Game Development with UE5
 - 🤔 Learning Raspberry Pi, ESP32, and STM32 right now and trying to figure out some fun projects
-- 😃 Looking for collaboration on project about computer system, web development, and game development 
-- 💼 Working as a class assistant for ECE 391: Computer System Engineering at UIUC
+- 😃 Looking for collaboration on projects about computer systems, web development, and game development 
+- 💼 Used to be a class assistant for ECE 391: Computer System Engineering at UIUC
+- 📋 Here is a personal website: https://meanpaper.github.io
 
 ### Contact
 <img src="https://img.shields.io/badge/Email-dl35%40illinois.edu-blue?style=flat&logo=Mail.ru" /> <a href="https://www.linkedin.com/in/dongmingliu183/">
@@ -14,7 +14,7 @@
 **MeanPaper/MeanPaper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 📓 Currently deep-diving in Computer Organization and Design, Communication Networks, and Game Development with UE5
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
