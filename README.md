@@ -1,8 +1,13 @@
 ### Hi there, I am Dongming
 - 👋 I'm a computer engineering student at UIUC
 - 🤔 Learning Raspberry Pi, ESP32, and STM32 right now and trying to figure out some fun projects
-- 😃 Looking for collaboration on projects about computer systems, web development, and game development 
-- 💼 Used to be a class assistant for ECE 391: Computer System Engineering at UIUC
+- 😃 Looking for collaboration on projects about computer systems and architecture, embedded systems, and game development
+<!--
+- 💼 Used to be 
+    - Web Developer Intern at Headline
+    - Class assistant for ECE 391: Computer System Engineering at UIUC
+    - Embedded System Software Engineering Intern at Rivian
+-->
 - 📋 Here is a personal website: https://meanpaper.github.io
 
 ### Contact
