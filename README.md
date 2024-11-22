@@ -9,7 +9,7 @@
     - Embedded System Software Engineering Intern at Rivian
 -->
 ### Contact
-<img src="https://img.shields.io/badge/Email-dl35%40illinois.edu-blue?style=flat&logo=Mail.ru" /> <a href="https://www.linkedin.com/in/dongmingliu183/">
+<img src="https://img.shields.io/badge/Email-dongmingliu73%40gmail.com-blue?style=flat&logo=Mail.ru" /> <a href="https://www.linkedin.com/in/dongmingliu183/">
   <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
 </a>
 
