@@ -1,7 +1,6 @@
 ### Hi there, I am Dongming
 - 👋 I'm a computer engineering student at UIUC
-- 🤔 Learning Raspberry Pi, ESP32, and STM32 right now and trying to figure out some fun projects
-- 😃 Looking for collaboration on projects about computer systems and architecture, embedded systems, and game development
+- 😃 Looking for collaboration on projects about computer systems and architecture and embedded systems
 - 📋 Here is a personal website: https://meanpaper.github.io
 <!--
 - 💼 Used to be 
