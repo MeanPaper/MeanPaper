@@ -1,17 +1,19 @@
 ### Hi there, I am Dongming
 - 👋 I'm a computer engineering student at UIUC
+- ⚙️ I'm currently investigating the usage case of CXL devices.
 - 😃 Looking for collaboration on projects about computer systems and architecture and embedded systems
-- 📋 Here is a personal website: https://meanpaper.github.io
+- 📋 Here is my personal website: https://meanpaper.github.io
+### Contact
+<img src="https://img.shields.io/badge/Email-dongmingliu73%40gmail.com-blue?style=flat&logo=Mail.ru" /> <a href="https://www.linkedin.com/in/dongmingliu183/">
+  <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+</a>
+
 <!--
 - 💼 Used to be 
     - Web Developer Intern at Headline
     - Class assistant for ECE 391: Computer System Engineering at UIUC
     - Embedded System Software Engineering Intern at Rivian
 -->
-### Contact
-<img src="https://img.shields.io/badge/Email-dongmingliu73%40gmail.com-blue?style=flat&logo=Mail.ru" /> <a href="https://www.linkedin.com/in/dongmingliu183/">
-  <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
-</a>
 
 <!--
 **MeanPaper/MeanPaper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
