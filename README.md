@@ -1,6 +1,6 @@
 ### Hi there, I am Dongming
 - 👋 I'm a computer engineering student at UIUC
-- ⚙️ I'm currently investigating the usage case of CXL devices.
+- ⚙️ I'm currently investigating the usage cases of CXL devices.
 - 😃 Looking for collaboration on projects about computer systems and architecture and embedded systems
 - 📋 Here is my personal website: https://meanpaper.github.io
 ### Contact
